@@ -54,7 +54,9 @@ For this part of the assignment you will learn how to read failed tests and debu
 1. Open `code/gpa.py` and read the instructions. The code has a couple of bugs. If you see them please do not fix. we will fix as part of the process.
 2. Run the program: menu => Run => Run Without Debugging  
 In the terminal window, enter a gpa of `3.3`. Based on the instructions, what should be the output? Does the program output correctly in this case?
+#The output is and should be "passing"
 3. Run it again and try `1.8` as input. Is the output correct?
+#The output should be "Acedemic Probation" but it is passing"
 4. Open the tests file `tests/test_assignment.py` look at the code under `def test_gpa():`. 
 5. Lines 10 through 18 list out 9 test cases. For example on line 17 when we input "4.0" the output should be "Summa Cum Laude".
 6. The code on lines 21-25 loop through each test case and run `./code/gpa.py` sending in the input gpa and scanning the `print()` output for the expected output.
