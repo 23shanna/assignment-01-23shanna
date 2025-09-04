@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Siobhain Hanna
+Sudent Email:  smhanna@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+The actual content of the assignment was not too difficult for me. I found it helpful to refresh myself on the basics of python by reviewing the readings given in the syllabus. Other than this, it took me considerable time and thought to test the different functions. I have not had any practice doing this and am unframiliar with the process. Same goes for the process of changing code in VSC, pushing code to Github and opening/ closeing the repoistory. I hope that with time I will be able to become framilar with VSC and how to navigate. 
